@@ -1,0 +1,37 @@
+Name: Tyler Margetts   
+Date: 10/17/2019
+Project: 05-Space-shooter
+Peer's repository: https://github.com/Tempestlyn/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+I learned how to use the spawn function in combination with time.sleep to have enemies constantly spawn. 
+
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+In the future I would like to use a position function inside update to get my enemies to move like he did. 
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+A scoring system could have been included in the code. 
+ 
+
+What could have been clearer or better commented?
+It could have been better commented that the enemies would move down the screen if not shot. 
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+I did not know what .ey and .ex meant in the code. 
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+It could have been stated how the player takes damage or loses. 
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+Impressive game! The code was very clean without errors and nothing was repetitive. I'm curious to see what else you can do!
