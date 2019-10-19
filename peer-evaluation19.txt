@@ -1,0 +1,40 @@
+Name: Adhiraj Singh
+Date: October 19, 2019
+Project: Space Shooter
+Peer's repository: https://github.com/adsing99/05-Space-shooter-1.git
+
+
+
+What is something you learned by reviewing your peer's project?
+
+You can spawn enemies of varying speeds.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ I liked that they used arrow keys for movement instead of the mouse as that made it feel more like a traditional game, and I would like to do that next time.
+
+What suggestions would you have for your peer to improve his/her code?
+
+Make sure that the player can't fly off the screen and get lost by checking for a collision with the screen border.
+
+What could have been clearer or better commented?
+
+Perhaps a score indicator or something letting you know your progress in the game.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ The code was clear, perhaps a little more time to polish the game itself would've been useful.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ The readme is descriptive and lays out how to play and what the objective is.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+The game is really fluid and I love that all the enemies aren't the same, it keeps the game interesting.
+
